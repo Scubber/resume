@@ -91,7 +91,7 @@ Activities and Societies: Greater Hartford Business Society
 #### [GIAC Network Forensic Analyst (GNFA)](https://www.credly.com/earner/earned/badge/0d419760-3225-4fc9-9fc8-699ed3a351cf)
 ##### Issued Apr 2021
 ##### Expires Apr 2025
-<img src=https://images.credly.com/size/220x220/images/4f0d8ea6-c6e6-4f31-9521-452ca67e6036/Template_GNFA.png width="50"/>
+[](img src=https://images.credly.com/size/220x220/images/4f0d8ea6-c6e6-4f31-9521-452ca67e6036/Template_GNFA.png | width="50")
 
 
 #### [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/earner/earned/badge/74a489aa-cc00-49a9-9262-dd8d9d15b9db)
