@@ -1,5 +1,5 @@
 1. [Resume](/resume.md)
-2. [Past Projects](/projects.md)
-3. [Blog](www.thecyberhound.com)
-4. [Undecided](www.thederpweb.com)
+2. [Past Projects](/resume-projects.md)
+3. ![Blog](https://www.thecyberhound.com)
+4. [Undecided](https://www.thederpweb.com)
 5. [Linkedin](https://www.linkedin.com/in/calltim/)
