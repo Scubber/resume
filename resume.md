@@ -91,20 +91,20 @@ Activities and Societies: Greater Hartford Business Society
 #### [GIAC Network Forensic Analyst (GNFA)](https://www.credly.com/earner/earned/badge/0d419760-3225-4fc9-9fc8-699ed3a351cf)
 ##### Issued Apr 2021
 ##### Expires Apr 2025
-<img src="images/GNFA.png" width="50"/>
+<img src="images/gnfa.png" width="50"/>
 
 
 #### [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/earner/earned/badge/74a489aa-cc00-49a9-9262-dd8d9d15b9db)
 ##### Issued Dec 2020
 ##### Expires Dec 2024
 ##### Credential IdentifierCredential ID 17868
-<img src="images/GCFA.png" width="50"/>
+<img src="images/gcfa.png" width="50"/>
 
 #### [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/earner/earned/badge/faf7267d-1b12-4300-b72c-0131531db9f4)
  ##### Issued Jun 2020
  ##### Expires Jun 2024
 
-<img src="images/GCIH.png" width="50"/>
+<img src="images/gcih.png" width="50"/>
 
 
 ### Project Management Institute
