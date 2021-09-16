@@ -114,31 +114,31 @@ Activities and Societies: Greater Hartford Business Society
 
 
 #### [GIAC Network Forensic Analyst (GNFA)](https://www.credly.com/earner/earned/badge/0d419760-3225-4fc9-9fc8-699ed3a351cf)
-
+<!--
 ##### Issued Apr 2021
 
 ##### Expires Apr 2025
-
+-->
 <!--
 <img src="images/gnfa.png" width="50"/>
 -->
 
 
 #### [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/earner/earned/badge/74a489aa-cc00-49a9-9262-dd8d9d15b9db)
-
+<!--
 ##### Issued Dec 2020
 
 ##### Expires Dec 2024
-
+-->
 <!--
 <img src="images/gcfa.png" width="50"/>
 -->
 #### [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/earner/earned/badge/faf7267d-1b12-4300-b72c-0131531db9f4)
-
+<!--
 ##### Issued Jun 2020
 
 ##### Expires Jun 2024
-
+-->
 <!--
 <img src="images/gcih.png" width="50"/>
 -->
@@ -146,10 +146,11 @@ Activities and Societies: Greater Hartford Business Society
 ### Project Management Institute
 
 #### [Project Management Professional (PMP)](https://www.credly.com/earner/earned/badge/d59f1efc-a6d1-4ee4-8adb-93f263dff57e)
-
+<!--
 ##### Issued Aug 2019
 
 ##### Expires Aug 2023
+-->
 
 ##### Credential Identifier `2634396`
 
@@ -159,11 +160,11 @@ Activities and Societies: Greater Hartford Business Society
 ### Cloud Security Alliance
 
 #### [Certificate of Cloud Security Knowledge (CCSK)](https://ccsk.cloudsecurityalliance.org/en)
-
+<!--
 ##### Issued Sep 2020
 
 ##### Expires Sep 2022
-
+-->
 ##### Credential Identifier ```4FBVedCBsQEJfmTkZS6Fw2Ac / tim.carreira@voya.com```
 
 <!--
@@ -173,11 +174,11 @@ Activities and Societies: Greater Hartford Business Society
 ### (ISC)²
 
 #### [Certified Information Systems Security Professional (CISSP)](https://www.credly.com/earner/earned/badge/f891fb8b-95c0-4b1e-8edf-2f83459db78c)
-
-##### May 2019
+<!--
+##### Issued May 2019
 
 ##### Expires May 2022
-
+-->
 ##### Credential Identifier `631419`
 
 <!--
