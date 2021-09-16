@@ -80,12 +80,13 @@ Linux
 ##### 2019 – 2021
 
 <!--
-* The graduate certificate in Incident Response is a highly technical 13-credit-hour program focused on developing an ability to manage both a computer and network-based forensics investigation as well as the appropriate incident responses.
-
-    * FOR 508 Advanced Digital Forensics, Incident Response, and Threat Hunting
-    * FOR 572 Advanced Network Forensics and Analysis
-    * SEC 504 Hacker Techniques, Exploits & Incident Handling
-    * FOR 610 Reverse-Engineering Malware: Malware Analysis Tools and Techniques
+* The graduate certificate in Incident Response is a highly technical 13-credit-hour program focused on developing an ability to manage both a computer and network-based forensics investigation as well as the appropriate incident responses.*
+* 
+* FOR508 Advanced Digital Forensics, Incident Response, and Threat Hunting 
+* FOR509 Cloud Forensics and Incident Response
+* FOR572 Advanced Network Forensics and Analysis
+* SEC504 Hacker Techniques, Exploits & Incident Handling
+* FOR610 Reverse-Engineering Malware: Malware Analysis Tools and Techniques
 -->
  
 ### Central Connecticut State University
