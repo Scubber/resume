@@ -25,9 +25,7 @@ Amazon Web Services (AWS)
 Powershell
 Python
 Linux
-
 -->
-
 
 ## Experience
 ### Voya Financial
@@ -42,7 +40,8 @@ Linux
 * Development and upkeep of standard operating procedure using the RE&CT framework
 * Engage in reverse engineering, red-teaming, penetration testing, and competing in Capture the Flag (CTF) events
 * Lead Cloud Incident Response and Digital Forensics initiatives
-see less
+
+
 ### Design Automation Associates (DAA)
 #### Manager - IT and Security
 #####  May 2014 – Aug 2019 Windsor Locks, CT
