@@ -101,8 +101,8 @@ Activities and Societies: Greater Hartford Business Society
 <img src="images/gcfa.png" width="50"/>
 
 #### [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/earner/earned/badge/faf7267d-1b12-4300-b72c-0131531db9f4)
- ##### Issued Jun 2020
- ##### Expires Jun 2024
+##### Issued Jun 2020
+##### Expires Jun 2024
 
 <img src="images/gcih.png" width="50"/>
 
