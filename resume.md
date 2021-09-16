@@ -91,20 +91,20 @@ Activities and Societies: Greater Hartford Business Society
 #### [GIAC Network Forensic Analyst (GNFA)](https://www.credly.com/earner/earned/badge/0d419760-3225-4fc9-9fc8-699ed3a351cf)
 ##### Issued Apr 2021
 ##### Expires Apr 2025
-<img src=https://images.credly.com/size/220x220/images/4f0d8ea6-c6e6-4f31-9521-452ca67e6036/Template_GNFA.png width="50"/>
+<img src="images/GNFA.png" width="50"/>
 
 
 #### [GIAC Certified Forensic Analyst (GCFA)](https://www.credly.com/earner/earned/badge/74a489aa-cc00-49a9-9262-dd8d9d15b9db)
 ##### Issued Dec 2020
 ##### Expires Dec 2024
 ##### Credential IdentifierCredential ID 17868
-<img src=https://images.credly.com/size/220x220/images/7148df07-dff6-44c7-a39e-1db1e295a138/Template_GCFA.png width="50"/>
+<img src="images/GCFA.png" width="50"/>
 
 #### [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/earner/earned/badge/faf7267d-1b12-4300-b72c-0131531db9f4)
  ##### Issued Jun 2020
  ##### Expires Jun 2024
 
-<img src=https://images.credly.com/size/220x220/images/7e23e244-b62d-4df0-ad45-484729c78745/Template_GCIH.png width="50"/>
+<img src="images/GCIH.png" width="50"/>
 
 
 ### Project Management Institute
@@ -112,14 +112,14 @@ Activities and Societies: Greater Hartford Business Society
 ##### Issued Aug 2019
 ##### Expires Aug 2023
 ##### Credential IdentifierCredential ID ```2634396```
-<img src=https://images.credly.com/size/220x220/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png width="50"/>
+<img src="images/pmp.png" width="50"/>
 
 ### Cloud Security Alliance
 #### [Certificate of Cloud Security Knowledge (CCSK)](https://ccsk.cloudsecurityalliance.org/en)
 ##### Issued Sep 2020
 ##### Expires Sep 2022
 ##### Credential Identifier ```4FBVedCBsQEJfmTkZS6Fw2Ac / tim.carreira@voya.com```
-<img src=https://ccsk.cloudsecurityalliance.org/assets/ccsk-cf7004fec4861720bff9d3ba5dbe1ac66dbab5bae1ba6ef3f27a02abfe26ca0c.png width="50"/>
+<img src="images/ccsk.png" width="50"/>
 
 
 ### (ISC)²
@@ -127,6 +127,6 @@ Activities and Societies: Greater Hartford Business Society
 ##### May 2019
 ##### Expires May 2022
 ##### Credential IdentifierCredential ID ```631419```
-<img src=https://images.credly.com/size/220x220/images/5e6f5247-1d61-4932-a5da-999a7feec067/isc2_cissp2.png width="50"/>
+<img src="images/cissp.png" width="50"/>
 
 
