@@ -1,4 +1,7 @@
-# Timothy Carreira - Senior Security Specialist  
+# Timothy Carreira - Senior IT Security Specialist
+| www.thecyberhound.com      | timothycarreira@gmail.com |
+| ----------- | ----------- |
+
 
 ## Skills
 <!---->
@@ -27,6 +30,7 @@ Python
 Linux
 -->
 
+---
 ## Experience
 ### Voya Financial
 #### Senior IT Security Specialist
