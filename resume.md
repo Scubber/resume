@@ -1,7 +1,7 @@
 # Timothy Carreira - Senior IT Security Specialist
 
-| www.thecyberhound.com      | timothycarreira@gmail.com |
-
+www.thecyberhound.com | timothycarreira@gmail.com 
+___
 
 ## Skills
 
